@@ -1,10 +1,17 @@
-Name: ARIKOTAM HEMANTH KUMAR
+Name: B.M.R.DINESH
+
 Company: CODTECH IT SOLUTIONS
-Intern ID: CT6CC897
+
+Intern ID: CT6CC1057
+
 Domain: CLOUD COMPUTING
+
 Duration: JULY 5th to AUGUST 20th 2024
+
 Mentor: Neela Santhosh kumar
+
 Overview of the Project
+
 Project: Building A Chat Application With Firebase
 Project Overview
 
